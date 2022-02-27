@@ -1,0 +1,4 @@
+/rhome/m/mhadzic9/workspace/OR/P1/Z11/main.c: In function ‘main’:
+/rhome/m/mhadzic9/workspace/OR/P1/Z11/main.c:7:9: warning: ‘i’ is used uninitialized in this function [-Wuninitialized]
+         scanf ("%d" , &niz[i]);
+         ^~~~~~~~~~~~~~~~~~~~~~

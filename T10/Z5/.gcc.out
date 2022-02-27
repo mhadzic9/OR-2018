@@ -1,0 +1,4 @@
+/rhome/m/mhadzic9/workspace/OR/T10/Z5/main.c: In function ‘ukloni_komentare’:
+/rhome/m/mhadzic9/workspace/OR/T10/Z5/main.c:47:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return poc;
+         ^~~

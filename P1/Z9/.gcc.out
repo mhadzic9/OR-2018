@@ -1,0 +1,4 @@
+/rhome/m/mhadzic9/workspace/OR/P1/Z9/main.c: In function ‘main’:
+/rhome/m/mhadzic9/workspace/OR/P1/Z9/main.c:7:18: warning: ‘i’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     if (n%2==1) i++;
+                 ~^~

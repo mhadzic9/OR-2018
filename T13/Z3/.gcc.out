@@ -1,0 +1,7 @@
+/rhome/m/mhadzic9/workspace/OR/T13/Z3/main.c: In function ‘main’:
+/rhome/m/mhadzic9/workspace/OR/T13/Z3/main.c:64:33: warning: format ‘%d’ expects argument of type ‘int *’, but argument 5 has type ‘int’ [-Wformat=]
+    while(fscanf(ulaz,"%20s%15s%2d %2d\n",pom_student.prezime,pom_student.ime,pom_student.broj_bodova1,pom_student.broj_bodova2)==4) {
+                               ~~^                                            ~~~~~~~~~~~~~~~~~~~~~~~~
+/rhome/m/mhadzic9/workspace/OR/T13/Z3/main.c:64:37: warning: format ‘%d’ expects argument of type ‘int *’, but argument 6 has type ‘int’ [-Wformat=]
+    while(fscanf(ulaz,"%20s%15s%2d %2d\n",pom_student.prezime,pom_student.ime,pom_student.broj_bodova1,pom_student.broj_bodova2)==4) {
+                                   ~~^                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~

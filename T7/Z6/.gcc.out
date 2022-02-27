@@ -1,0 +1,7 @@
+/rhome/m/mhadzic9/workspace/OR/T7/Z6/main.c: In function ‘main’:
+/rhome/m/mhadzic9/workspace/OR/T7/Z6/main.c:12:8: warning: unused variable ‘y’ [-Wunused-variable]
+  int x,y,n,i,j;
+        ^
+/rhome/m/mhadzic9/workspace/OR/T7/Z6/main.c:12:6: warning: unused variable ‘x’ [-Wunused-variable]
+  int x,y,n,i,j;
+      ^

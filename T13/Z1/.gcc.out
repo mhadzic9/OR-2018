@@ -1,0 +1,7 @@
+/rhome/m/mhadzic9/workspace/OR/T13/Z1/main.c: In function ‘main’:
+/rhome/m/mhadzic9/workspace/OR/T13/Z1/main.c:29:38: warning: unknown conversion type character ‘\x0a’ in format [-Wformat=]
+      while (fscanf(ulaz,"%20s%15s%2d%\n", studenti[i].prezime, studenti[i].ime, &studenti[i].broj_bodova) == 3 && i<300)
+                                      ^~
+/rhome/m/mhadzic9/workspace/OR/T13/Z1/main.c:37:41: warning: self-comparison always evaluates to false [-Wtautological-compare]
+             if (studenti[j].broj_bodova > studenti[j].broj_bodova)
+                                         ^
